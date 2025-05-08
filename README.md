@@ -72,3 +72,5 @@ This Python script is a basic network sniffer. Its primary purpose is to capture
 8. Performance Optimization: Optimize the code for performance to minimize packet loss and reduce the impact on system resources, especially under heavy network load.  Consider using asynchronous programming.
 9. Modular Design: Structure the code in a more modular way to make it easier to maintain, extend, and reuse components.
 10. Logging: Implement a logging mechanism to record events, errors, and captured data for debugging and auditing purposes.
+
+## Terminal/Command Prompts/ 
