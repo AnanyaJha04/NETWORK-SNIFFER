@@ -73,4 +73,5 @@ This Python script is a basic network sniffer. Its primary purpose is to capture
 9. Modular Design: Structure the code in a more modular way to make it easier to maintain, extend, and reuse components.
 10. Logging: Implement a logging mechanism to record events, errors, and captured data for debugging and auditing purposes.
 
-## Terminal/Command Prompts/ 
+## Terminal/Command Prompts/Powershell-
+In some operating systems, the Python IDLE might not support this code and would show an output error. So to tackle the situation, you can execute the prompts given in the codespace area on your Terminal/Command Prompt/Powershell, and in response, it would give you the output.
