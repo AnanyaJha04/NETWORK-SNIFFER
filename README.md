@@ -1,6 +1,7 @@
 # NETWORK-SNIFFER
+This Python script is a basic network sniffer.
 ## Purpose-
-This Python script is a basic network sniffer. Its primary purpose is to capture and display network packets traveling through a network interface. It's a tool for network monitoring, educational purposes, and basic network troubleshooting.  It allows you to see the raw data that is being sent across the network.
+Its primary purpose is to capture and display network packets traveling through a network interface. It's a tool for network monitoring and basic network troubleshooting.  It allows you to see the raw data that is being sent across the network.
 
 ## Features-
 1. Packet Capture: Captures raw network packets.
