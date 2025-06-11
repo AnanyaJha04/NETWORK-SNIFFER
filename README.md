@@ -1,7 +1,7 @@
 # NETWORK-SNIFFER
 This Python script is a basic network sniffer.
 ## Purpose-
-Its primary purpose is to capture and display network packets traveling through a network interface. It's a tool for network monitoring and basic network troubleshooting.  It allows you to see the raw data that is being sent across the network.
+Its primary purpose is to capture and display network packets traveling through a network interface. It's a tool for network monitoring and basic network troubleshooting.  It allows you to view the raw data being sent across the network.
 
 ## Features-
 1. Packet Capture: Captures raw network packets.
@@ -75,4 +75,14 @@ Its primary purpose is to capture and display network packets traveling through 
 10. Logging: Implement a logging mechanism to record events, errors, and captured data for debugging and auditing purposes.
 
 ## Terminal/Command Prompts/Powershell-
-In some operating systems, the Python IDLE might not support this code and would show an output error. So to tackle the situation, you can execute the prompts given in the codespace area on your Terminal/Command Prompt/Powershell, and in response, it would give you the output.
+In some operating systems, Python IDLE may not support this code and will display an output error. So to tackle the situation, you can execute the prompts given in the codespace area on your Terminal/Command Prompt/Powershell, and in response, it would give you the output.
+
+# This run could only be run on Terminal because IDLE doesn't hold the required permissions
+sudo which python3 #Path
+sudo which python
+cd Desktop
+cd Documents 
+ls  #list of all the files on the Desktop
+sudo /usr/bin/python3 "filename.py" #redirect the path to the main Python file where the code is written
+
+After executing line 7, the Terminal would generate the required output.
